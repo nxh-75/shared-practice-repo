@@ -4,4 +4,4 @@ YES, NARESH HELLO THERE!!
 How you doing?
 I'm good, watchin IND v/s AUS match as well !!!
 
-6/march/25 : Learning Git & github (using merge_test branch)
+6/march/25 : Learning Git & github (using vidumukhi branch)
